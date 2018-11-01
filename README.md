@@ -1,9 +1,9 @@
 # Задание 26
 ![Image alt](https://github.com/Butonsusumom/Laba3-additional/blob/master/Capture.PNG)
 
-<Delphi
+< Delphi
 
-```
+```dpr
 program LR3dop ;
              {$APPTYPE CONSOLE}
 
