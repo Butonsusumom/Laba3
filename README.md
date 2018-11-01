@@ -4,7 +4,7 @@
 > Delphi
 
 ```dpr
-Program LR3new;
+Program LR3;
 uses
   SysUtils;
 function Power(x:Real;y:Integer):Real;//rising a number to a positive integer power
